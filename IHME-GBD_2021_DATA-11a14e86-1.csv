@@ -1,0 +1,4 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+2,DALYs (Disability-Adjusted Life Years),146,Lebanon,3,Both,22,All ages,410,Neoplasms,2,Percent,2021,0.08982753818727429,0.10620144866304312,0.07632073070398535
+3,YLDs (Years Lived with Disability),146,Lebanon,3,Both,22,All ages,410,Neoplasms,2,Percent,2021,0.0097199200463412,0.0118027853201782,0.0077986662645525
+4,YLLs (Years of Life Lost),146,Lebanon,3,Both,22,All ages,410,Neoplasms,2,Percent,2021,0.1459432902688,0.1619721923608894,0.13123494882791847
