@@ -1,0 +1,10 @@
+folium
+streamlit-folium
+geopandas
+branca
+matplotlib
+mplcursors
+plotly
+seaborn
+statsmodels
+scikit-learn
