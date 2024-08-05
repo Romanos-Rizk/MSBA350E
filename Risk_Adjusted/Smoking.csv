@@ -1,0 +1,21 @@
+IND_ID,IND_CODE,IND_UUID,IND_PER_CODE,DIM_TIME,DIM_TIME_TYPE,DIM_GEO_CODE_M49,DIM_GEO_CODE_TYPE,DIM_PUBLISH_STATE_CODE,IND_NAME,GEO_NAME_SHORT,DIM_SEX,METRIC,PERCENT_POP_NL,PERCENT_POP_NU
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2010,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.3,11.2,17.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2020,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.4,25.4,43.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2007,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.3,11.6,16.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2007,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,35.6,27.9,43.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2030,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34,21.3,46.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,15,10.4,19.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2000,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,36.4,26.8,46
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2015,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.7,26.2,43.2
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2000,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.2,10.2,18.3
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2022,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.3,24.4,44.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2030,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,15.2,10.1,20.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2005,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,35.6,27.7,43.6
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2021,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.3,24.8,43.9
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2005,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.3,11.2,17.4
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2020,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.8,10.9,18.7
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2025,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,34.1,23.1,45.1
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2010,YEAR,422,COUNTRY,PUBLISHED,Tobacco use,Lebanon,TOTAL,35.1,27.3,43
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2021,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.8,10.5,19
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2022,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.9,10.9,18.8
+75DDA77M_Est_tob_curr_std,M_Est_tob_curr_std,75DDA77,M_Est_tob_curr_std,2015,YEAR,682,COUNTRY,PUBLISHED,Tobacco use,Saudi Arabia,TOTAL,14.4,11,17.9
