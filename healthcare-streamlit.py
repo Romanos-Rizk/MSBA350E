@@ -96,7 +96,7 @@ if selected_page == "Home":
         st.write("")
 
     # Page title and introduction
-    st.markdown("<h1 class='header-font center-text'>Healthcare Analysis of Causes of Death and Their Risk Factors in the Middle East</h1>", unsafe_allow_html=True)
+    st.markdown("<h1 class='header-font center-text'>Tracing the Deadly Path: Neoplasms in Lebanon and the Hidden Risks in MENA</h1>", unsafe_allow_html=True)
     st.markdown("<div class='center-text subheader-font'>Welcome to the healthcare analysis project focused on the Middle East, with a particular focus on neoplasms in Lebanon. This project aims to provide insights into the causes of death and their associated risk factors.</div>", unsafe_allow_html=True)
     
     st.markdown("---")
